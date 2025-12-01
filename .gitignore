@@ -1,0 +1,23 @@
+# Rust
+target/
+
+# OCaml
+_build/
+*.byte
+*.native
+*.install
+.merlin
+
+# Nix
+result
+result-*
+
+# direnv
+.direnv/
+
+# Editor
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
