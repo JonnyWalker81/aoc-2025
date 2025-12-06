@@ -7,7 +7,9 @@ let read_input () =
   in
   read_lines []
 
-let part1 lines = print_endline "Part 1: TODO"
+let part1 lines =
+  ignore lines;
+  print_endline "Part 1: TODO"
 
 let part2 lines =
   ignore lines;
